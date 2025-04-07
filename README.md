@@ -30,7 +30,7 @@ Developed by **Jeel Bhensadadiya** using **Flutter**, following **clean code pri
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/blog_app.git
+git clone https://github.com/jeelpatel001/coin_pay.git
 cd blog_app
 ```
 
