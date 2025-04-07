@@ -1,16 +1,62 @@
-# coin_pay
+# 💰 Coin Pay App – Onboarding UI
 
-A new Flutter project of CoinPay Developing By Jeel Patel
+A Flutter application showcasing a **modern onboarding UI design** for a trading app called **Coin Pay**.
 
-## Getting Started
+Developed by **Jeel Bhensadadiya** using **Flutter**, following **clean code principles** and responsive UI practices.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- 👋 Interactive Onboarding Experience
+- 📱 Fully Responsive Design for All Screen Sizes
+- 🎨 Smooth Page Transitions with Animation
+- 🧩 Modular Widgets and Clean Code Structure
+- 🧠 Easy to Integrate into Any Flutter Project
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** (UI Toolkit)
+- **Dart** (Programming Language)
+- **PageView** (for swiping through pages)
+- **Custom Widgets** (for components like buttons, text, indicators)
+
+---
+
+## 📲 Getting Started
+
+1. **Clone the repo**
+
+```bash
+git clone https://github.com/yourusername/blog_app.git
+cd blog_app
+```
+
+2. **Install dependencies**
+
+```bash
+flutter pub get
+```
+
+3. **Run the app**
+
+```bash
+flutter run
+```
+
+> Make sure you have Flutter SDK installed. If not, check [Flutter Setup Guide](https://docs.flutter.dev/get-started/install)
+
+---
+
+## 📚 Resources
+
+- [Flutter Documentation](https://docs.flutter.dev/)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 👨‍💻 Developer
+
+**Jeel Bhensadadiya**
